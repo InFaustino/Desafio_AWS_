@@ -34,8 +34,7 @@ Etapa 3:
 - Elimina o banco de dados local para um em Cloud. Armazena dados estruturados como pedidos, clientes, estoque e preços. Além disso, a ferramenta de AWS Lambda se alimenta diretamente desses dados e os atulizam em temp real.
 
 
-
-## ConclusÃ£o
+## Conclusão
 A implementação de ferramentas na empresa Abstergo Industries tem como esperado redução de custos de infraestruturas locais e automatização de processos, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 Inayara F.
